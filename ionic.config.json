@@ -1,0 +1,8 @@
+{
+  "name": "farmaguide",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "144e48f5"
+}
